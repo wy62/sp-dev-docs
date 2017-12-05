@@ -46,19 +46,9 @@ The following table shows SharePoint capabilities that you can add to your app, 
 ## Additional resources
 <a name="bk_addresources"> </a>
 
-
--  [What's new for developers in SharePoint](what-s-new-for-developers-in-sharepoint.md)
-    
-  
--  [SharePoint development overview](sharepoint-development-overview.md)
-    
-  
+-  [SharePoint development overview](sharepoint-development-overview.md)  
 -  [Set up a general development environment for SharePoint](set-up-a-general-development-environment-for-sharepoint.md)
-    
-  
--  [Programming models in SharePoint](programming-models-in-sharepoint.md)
-    
-  
+-  [Programming models in SharePoint](programming-models-in-sharepoint.md) 
 -  [Accessibility in SharePoint](accessibility-in-sharepoint.md)
     
   

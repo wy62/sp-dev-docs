@@ -293,16 +293,8 @@ while (retries <= 10)
 ## Additional resources
 <a name="SP15NewSocial_addlresources"> </a>
 
-
--  [Social and collaboration features in SharePoint](social-and-collaboration-features-in-sharepoint.md)
-    
-  
--  [Get started developing with social features in SharePoint](get-started-developing-with-social-features-in-sharepoint.md)
-    
-  
--  [What's new for developers in SharePoint](what-s-new-for-developers-in-sharepoint.md)
-    
-  
+-  [Social and collaboration features in SharePoint](social-and-collaboration-features-in-sharepoint.md)  
+-  [Get started developing with social features in SharePoint](get-started-developing-with-social-features-in-sharepoint.md)  
 -  [What's new in social computing in SharePoint](http://technet.microsoft.com/en-us/library/jj219766%28v=office.15%29)
     
   

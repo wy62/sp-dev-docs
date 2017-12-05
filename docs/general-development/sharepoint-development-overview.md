@@ -39,8 +39,7 @@ The following article can help you get acquainted with SharePoint Add-ins and de
   
     
     
-If you want to develop farm solutions, you can take advantage of many new capabilities, including features for social applications, integration with remote data stores (Business Connectivity Services), and mobile development. Start with our guidance in  [What's new for developers in SharePoint](what-s-new-for-developers-in-sharepoint.md).
-  
+If you want to develop farm solutions, you can take advantage of many new capabilities, including features for social applications, integration with remote data stores (Business Connectivity Services), and mobile development.   
     
     
 The following sections describe how to create mobile solutions for SharePoint.
@@ -89,7 +88,6 @@ Table 1 shows the resources for setting up a development environment and beginni
 |:-----|:-----|
 | [Set up a general development environment for SharePoint](set-up-a-general-development-environment-for-sharepoint.md) <br/> |Contains step-by-step instructions on how to install the components of a SharePoint development environment.  <br/> |
 | [Choose the right API set in SharePoint](choose-the-right-api-set-in-sharepoint.md) <br/> |Describes the several sets of APIs that are provided in SharePoint, including the server object model and the various client-side object models, and the REST/OData web service.  <br/> |
-| [What's new for developers in SharePoint](what-s-new-for-developers-in-sharepoint.md) <br/> |Provides a gateway to detailed information about new features and functionality in SharePoint.  <br/> |
 | [Programming models in SharePoint](programming-models-in-sharepoint.md) <br/> |Provides a quick overview of the different kinds of SharePoint development projects that you can create with SharePoint.  <br/> |
 | [Add SharePoint capabilities](add-sharepoint-capabilities.md) <br/> |Provides a gateway to detailed information about using the capabilities of SharePoint in your solutions.  <br/> |
    

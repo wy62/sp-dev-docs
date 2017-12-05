@@ -345,18 +345,9 @@ This article demonstrated how to customize the rendering process for a custom fi
 <a name="SP15CustomizeafieldtypeusingCSR_AddResources"> </a>
 
 
--  [Set up a general development environment for SharePoint](set-up-a-general-development-environment-for-sharepoint.md)
-    
-  
--  [Build sites for SharePoint](build-sites-for-sharepoint.md)
-    
-  
--  [What's new for developers in SharePoint](what-s-new-for-developers-in-sharepoint.md)
-    
-  
--  [Add SharePoint capabilities](add-sharepoint-capabilities.md)
-    
-  
+-  [Set up a general development environment for SharePoint](set-up-a-general-development-environment-for-sharepoint.md) 
+-  [Build sites for SharePoint](build-sites-for-sharepoint.md)  
+-  [Add SharePoint capabilities](add-sharepoint-capabilities.md) 
 -  [Build farm solutions in SharePoint](build-farm-solutions-in-sharepoint.md)
     
   

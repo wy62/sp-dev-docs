@@ -44,9 +44,6 @@ BCS is improved and enhanced for SharePoint, including the new functionality lis
     
   
 -  [Business Connectivity Services programmers reference for SharePoint](business-connectivity-services-programmers-reference-for-sharepoint.md)
-    
-  
--  [What's new for developers in SharePoint](what-s-new-for-developers-in-sharepoint.md)
-    
+
   
 
