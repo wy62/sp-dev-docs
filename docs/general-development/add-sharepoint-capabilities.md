@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add SharePoint capabilities
 ms.date: 09/25/2017
 ms.prod: sharepoint
@@ -7,7 +7,9 @@ ms.assetid: 11ecb65e-6dc5-4cf1-80ca-3c16418697b6
 
 
 # Add SharePoint capabilities
+
 Find overview and how-to information about adding SharePoint features and capabilities to custom apps.
+
 ## What are SharePoint capabilities in SharePoint?
 <a name="bkmk_whatIs"> </a>
 
