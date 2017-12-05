@@ -96,12 +96,7 @@ The SharePoint platform and Visual Studio 2012 enable encapsulation and reuse of
 <a name="SP15devinSP_addlresources"> </a>
 
 
--  [Set up a general development environment for SharePoint](set-up-a-general-development-environment-for-sharepoint.md)
-    
+-  [Set up a general development environment for SharePoint](set-up-a-general-development-environment-for-sharepoint.md) 
   
 -  [Add SharePoint capabilities](add-sharepoint-capabilities.md)
-    
-  
--  [Accessibility in SharePoint](accessibility-in-sharepoint.md)
-    
   

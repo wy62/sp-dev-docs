@@ -119,10 +119,7 @@ When you know the kinds of SharePoint Add-in that you want to create, we provide
 ## Additional resources
 <a name="bk_additionalresources"> </a>
 
-
--  [Accessibility in SharePoint](accessibility-in-sharepoint.md)
-    
-  
+ 
 -  [Protocol handler error due to deprecated interface in SharePoint 2016](protocol-handler-error-due-to-deprecated-interface-in-sharepoint-2016.md)
     
   
