@@ -52,8 +52,7 @@ The following C# code demonstrates how to make this **GET** request that returns
 
 For more information about how you can obtain an access token, see [Context Token OAuth flow for SharePoint Add-ins](context-token-oauth-flow-for-sharepoint-add-ins.md) and [Authorization Code OAuth flow for SharePoint Add-ins](authorization-code-oauth-flow-for-sharepoint-add-ins.md).
 
-```C#
-
+```c#
 HttpWebRequest endpointRequest =
   (HttpWebRequest)HttpWebRequest.Create(
   "http://<site url>/_api/web/lists");
@@ -63,16 +62,13 @@ endpointRequest.Headers.Add("Authorization",
   "Bearer " + accessToken);
 HttpWebResponse endpointResponse =
   (HttpWebResponse)endpointRequest.GetResponse();
-
 ```
-
-<br/>
 
 This request would look a little different if you are writing your add-in in JavaScript while using the SharePoint cross-domain library. In this case, you don't need to provide an access token. 
 
 The following code demonstrates how this request would look if you are using the cross-domain library and want to receive the OData representation of the lists as XML instead of JSON. (Because Atom is the default response format, you don't have to include an **Accept** header.) For more information about using the cross-domain library, see [Access SharePoint data from add-ins using the cross-domain library](access-sharepoint-data-from-add-ins-using-the-cross-domain-library.md).
 
-```
+```javascript
 var executor = new SP.RequestExecutor(appweburl);
 executor.executeAsync(
     {
@@ -87,20 +83,15 @@ executor.executeAsync(
 );
 ```
 
-<br/>
-
 The code in the following example shows you how to request a JSON representation of all of the lists in a site by using C#. It assumes that you have an OAuth access token that you are storing in the `accessToken` variable.
 
-```C#
+```c#
 HttpWebRequest endpointRequest = (HttpWebRequest)HttpWebRequest.Create(sharepointUrl.ToString() + "/_api/web/lists");
 endpointRequest.Method = "GET";
 endpointRequest.Accept = "application/json;odata=verbose";
 endpointRequest.Headers.Add("Authorization", "Bearer " + accessToken);
 HttpWebResponse endpointResponse = (HttpWebResponse)endpointRequest.GetResponse();
-
 ```
-
-<br/>
 
 <a name="NavigationProperties"> </a>
 
@@ -123,8 +114,7 @@ You can create and update SharePoint entities by constructing RESTful HTTP reque
 
 Another important consideration when creating, updating, and deleting SharePoint entities is that if you aren't using OAuth to authorize your requests, these operations require the server's request form digest value as the value of the **X-RequestDigest** header. You can retrieve this value by making a **POST** request with an empty body to `http://<site url>/_api/contextinfo` and extracting the value of the `d:FormDigestValue` node in the XML that the **contextinfo** endpoint returns. The following example shows an HTTP request to the **contextinfo** endpoint in C#.
 
-```C#
-
+```c#
 HttpWebRequest endpointRequest =
   (HttpWebRequest)HttpWebRequest.Create(
   "http://<site url>/_api/contextinfo");
@@ -132,10 +122,7 @@ endpointRequest.Method = "POST";
 endpointRequest.Accept = "application/json;odata=verbose";
 HttpWebResponse endpointResponse =
   (HttpWebResponse)endpointRequest.GetResponse();
-
 ```
-
-<br/>
 
 If you're using the authentication and authorization flow described in [Authorization and authentication of SharePoint Add-ins](authorization-and-authentication-of-sharepoint-add-ins.md), you don't need to include the request digest in your requests.
 
@@ -144,7 +131,7 @@ If you're using the JavaScript cross-domain library, SP.RequestExecutor handles 
 If you're creating a SharePoint-hosted SharePoint Add-in, you don't have to make a separate HTTP request to retrieve the form digest value. Instead, you can retrieve the value in JavaScript code from the SharePoint page (if the page uses the default master page), as shown in the following example, which uses JQuery and creates a list.
 
 
-```
+```javascript
 jQuery.ajax({
         url: "http://<site url>/_api/web/lists",
         type: "POST",
@@ -160,14 +147,13 @@ jQuery.ajax({
         success: doSuccess,
         error: doError
 });
-
 ```
 
 <br/>
 
 The following example shows how to update the list that is created in the previous example. The example changes the title of the list, uses JQuery, and assumes that you are doing this operation in a SharePoint-hosted add-in.
 
-```
+```javascript
 jQuery.ajax({
         url: "http://<site url>/_api/web/lists/GetByTitle('Test')",
         type: "POST",
@@ -183,10 +169,7 @@ jQuery.ajax({
         success: doSuccess,
         error: doError
 });
-
 ```
-
-<br/>
 
 The value of the **IF-MATCH** key in the request headers is where you specify the **etag** value of a list or list item. This particular value applies only to lists and list items, and is intended to help you avoid concurrency problems when you update those entities. The previous example uses an asterisk (*) for this value, and you can use that value whenever you don't have any reason to worry about concurrency issues. Otherwise, you should obtain the **etag** value or a list or list item by performing a **GET** request that retrieves the entity. The response headers of the resulting HTTP response pass the etag as the value of the **ETag** key. This value is also included in the entity metadata. 
 
@@ -199,15 +182,13 @@ xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
 xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" m:etag=""1"">
 ```
 
-<br/>
-
 <a name="bk_CreateSite"> </a>
 
 ## Creating a site with REST
 
 The following example shows how to create a site in JavaScript.
 
-```
+```javascript
 jQuery.ajax({
     url: "http://<site url>/_api/web/webinfos/add",
     type: "POST",
@@ -232,8 +213,6 @@ jQuery.ajax({
     error: doError
 });
 ```
-
-<br/>
 
 <a name="bk_HowRequestsDiffer"> </a>
 
@@ -294,7 +273,7 @@ Cross-domain library requests use this format when they access data on the add-i
  
 SharePoint Add-ins can get the add-in web URL and host web URL from the query string of the add-in page, as shown in the following code example. The example also shows how to reference the cross-domain library, which is defined in the SP.RequestExecutor.js file on the host web. The example assumes that your add-in launches from SharePoint. For guidance about setting your SharePoint context correctly when your add-in does not launch from SharePoint, see [Authorization Code OAuth flow for SharePoint Add-ins](authorization-code-oauth-flow-for-sharepoint-add-ins.md). 
 
-```
+```javascript
 var hostweburl;
 var appweburl;
 
@@ -332,8 +311,6 @@ function getQueryStringParameter(paramToRetrieve) {
 }
 ??? // success and error callback functions
 ```
-
-<br/>
 
 <a name="bk_requestElements"> </a>
 

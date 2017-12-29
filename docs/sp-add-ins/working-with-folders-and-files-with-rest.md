@@ -229,7 +229,7 @@ headers:
 
 The following code sample shows how to create a file by using this REST endpoint and the cross-domain library.
 
-```
+```javascript
 function uploadFileBinary() {
 XDomainTestHelper.clearLog();
 var ro;

@@ -21,11 +21,17 @@ SharePoint adds the ability for you to remotely interact with SharePoint sites b
 
 To access SharePoint resources using REST, construct a RESTful HTTP request by using the OData standard, which corresponds to the desired client object model API. For example:
 
-*Client object model method:*<br/> 
-`List.GetByTitle(listname)` 
+*Client object model method:*
 
-*REST endpoint:*<br/>
-`http://server/site/_api/lists/getbytitle('listname')`
+```
+List.GetByTitle(listname)
+```
+
+*REST endpoint:*
+
+```http
+http://server/site/_api/lists/getbytitle('listname')
+```
 
 The client.svc web service in SharePoint handles the HTTP request, and serves the appropriate response in either Atom or JavaScript Object Notation (JSON) format. Your client application must then parse that response. The following figure shows a high-level view of the SharePoint REST architecture.
 
@@ -87,7 +93,7 @@ The following table contains typical REST endpoint URL examples to get you start
 
 |**Description**|**URL endpoint**|**HTTP method**|**Body content**|
 |:-----|:-----|:-----|:-----|
-|Retrieves the title of a list| `web/title`|GET|Not applicable|
+|Retrieves the title of a site| `web/title`|GET|Not applicable|
 |Retrieves all lists on a site| `lists`|GET|Not applicable|
 |Retrieves a single list's metadata| `lists/getbytitle('listname')`|GET|Not applicable|
 |Retrieves items within a list| `lists/getbytitle('listname')/items`|GET|Not applicable|

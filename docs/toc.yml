@@ -288,27 +288,27 @@
   - name: REST
     items:
     - name: SharePoint REST service
-      href: apis/rest/get-to-know-the-sharepoint-rest-service.md
+      href: sp-add-ins/get-to-know-the-sharepoint-rest-service.md
     - name: Basic operations
-      href: apis/rest/complete-basic-operations-using-sharepoint-rest-endpoints.md
+      href: sp-add-ins/complete-basic-operations-using-sharepoint-rest-endpoints.md
     - name: Lists and list items
-      href: apis/rest/working-with-lists-and-list-items-with-rest.md
+      href: sp-add-ins/working-with-lists-and-list-items-with-rest.md
     - name: Folders and files
-      href: apis/rest/working-with-folders-and-files-with-rest.md
+      href: sp-add-ins/working-with-folders-and-files-with-rest.md
     - name: REST endpoint URIs
-      href: apis/rest/determine-sharepoint-rest-service-endpoint-uris.md
+      href: sp-add-ins/determine-sharepoint-rest-service-endpoint-uris.md
     - name: OData query operations
-      href: apis/rest/use-odata-query-operations-in-sharepoint-rest-requests.md
+      href: sp-add-ins/use-odata-query-operations-in-sharepoint-rest-requests.md
     - name: Navigate data structure
-      href: apis/rest/navigate-the-sharepoint-data-structure-represented-in-the-rest-service.md
+      href: sp-add-ins/navigate-the-sharepoint-data-structure-represented-in-the-rest-service.md
     - name: Synchronize SharePoint items
-      href: apis/rest/synchronize-sharepoint-items-using-the-rest-service.md
+      href: sp-add-ins/synchronize-sharepoint-items-using-the-rest-service.md
     - name: Upload a file
-      href: apis/rest/upload-a-file-by-using-the-rest-api-and-jquery.md
+      href: sp-add-ins/upload-a-file-by-using-the-rest-api-and-jquery.md
     - name: Manage permissions
-      href: apis/rest/set-custom-permissions-on-a-list-by-using-the-rest-interface.md
+      href: sp-add-ins/set-custom-permissions-on-a-list-by-using-the-rest-interface.md
     - name: Batch requests
-      href: apis/rest/make-batch-requests-with-the-rest-apis.md
+      href: sp-add-ins/make-batch-requests-with-the-rest-apis.md
   - name: Webhooks
     items:
     - name: Overview

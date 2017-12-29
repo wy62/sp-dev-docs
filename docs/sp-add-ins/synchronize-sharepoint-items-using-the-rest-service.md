@@ -21,7 +21,7 @@ The request returns ADO **rowset** XML, which includes rows corresponding to any
 
 **Example POST body**
 
-```XML
+```json
 { 'd' : { 
   'query': { 
     '__metadata': { 'type': 'SP.ChangeLogItemQuery'}, 
@@ -43,10 +43,7 @@ The request returns ADO **rowset** XML, which includes rows corresponding to any
       <Value Type="Text">Testing</Value></Contains>' } 
   } 
 }
-
 ```
-
-<br/>
 
 <a name="bk_props"> </a>
 
