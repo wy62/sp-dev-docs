@@ -7,7 +7,10 @@ ms.prod: sharepoint
 
 # Connect to Azure AD secured APIs in SharePoint Framework solutions
 
-When building SharePoint Framework solutions, you might need to connect to an API secured with Azure Active Directory. SharePoint Framework allows you to specify which Azure AD applications and permissions your solution requires, and tenant administrator can grant the necessary permissions if they haven't yet been granted. Using the **AadHttpClient** you can easily connect to APIs secured with Azure AD without having to implement the OAuth flow yourself.
+> [!IMPORTANT]
+> `AadHttpClient` and `MSGraphClient` client objects are currently in preview and are subject to change. Do not use them in a production environment. Also note that the `webApiPermissionRequests` properties in `package-solution.json` are not supported in production tenants.
+
+When building SharePoint Framework solutions, you might need to connect to an API secured with Azure Active Directory (Azure AD). The SharePoint Framework allows you to specify which Azure AD applications and permissions your solution requires, and tenant administrators can grant the permissions. You can use the **AadHttpClient** client to connect to APIs secured with Azure AD without implementing the OAuth flow yourself.
 
 > [!IMPORTANT]
 > Usage of `AadHttpClient` and `MSGraphClient` is currently in preview status and subject to change. You should not use these capabilities in production environment. Notice also that usage of `webApiPermissionRequests` properties in `package-solution.json` is not supported in normal tenants.
