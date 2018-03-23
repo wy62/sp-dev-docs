@@ -155,10 +155,10 @@ None
 For an example, see [Examples of Input and Result Node Trees in XSLT
 Transformations](http://msdn.microsoft.com/library/cbe88144-25ac-4cd2-8f2a-50e8c271c6ae(Office.15).aspx).
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

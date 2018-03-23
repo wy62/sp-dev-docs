@@ -156,10 +156,10 @@ Services](http://msdn.microsoft.com/library/be0888d4-20b2-4d39-bf28-2d8a71829d8e
 [Workflow Deployment Using
 Features](http://msdn.microsoft.com/library/ad294f09-483d-4e87-bd19-fa37795ed558(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

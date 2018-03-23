@@ -77,10 +77,10 @@ configurations.
 -   <span sdata="link">[Types
     (SPS15XSDSearchSet6)](types-sps15xsdsearchset6.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -267,10 +267,10 @@ Overview](http://msdn.microsoft.com/library/5ef4e933-564e-4dea-b2f4-c1b621774969
 [Workflow Actions Schema
 Overview](http://msdn.microsoft.com/library/25da07cb-b228-43f2-9cdf-c8c71c3eabbb(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

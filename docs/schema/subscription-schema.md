@@ -110,10 +110,10 @@ Schema)](query-element-in-queries-subscription-schema.htm)</span>
 <span sdata="link">[Subscription Element (Subscription
 Schema)](subscription-element-subscription-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

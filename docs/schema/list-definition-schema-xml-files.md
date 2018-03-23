@@ -86,10 +86,10 @@ Definition](http://msdn.microsoft.com/library/6f0aed4a-d80a-4e42-8f12-c6b83c8cc2
 <span sdata="link">[List
 Schema](list-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

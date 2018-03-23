@@ -208,10 +208,10 @@ that implements a custom class for special data validation and field
 rendering, use the [Field (Field
 Types)](field-element-field-types.htm) element.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

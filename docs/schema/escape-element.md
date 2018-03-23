@@ -160,10 +160,10 @@ onmouseout="ChangeCopyCodeIcon(this)" tabindex="0">![Copy
 code](../icons/copycode.gif "Copy code")Copy code</span>
     <Escape EscapeChar="\" EscapeChars="x">abcxyz</Escape>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

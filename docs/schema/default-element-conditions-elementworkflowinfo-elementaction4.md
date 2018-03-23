@@ -216,10 +216,10 @@ finds a condition that is not represented by an entry in an .ACTIONS
 file, the **Default** element sentence is
 displayed for that condition.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

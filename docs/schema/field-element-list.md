@@ -1001,10 +1001,10 @@ SPFieldCollection)](field-element-deploymentmanifestspfieldcollection.htm)</span
 <span sdata="link">[Field Element
 (Site)](field-element-site.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

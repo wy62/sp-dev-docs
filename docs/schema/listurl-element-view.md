@@ -142,10 +142,10 @@ Renders the URL of the list relative to the containing Web site.
 </tbody>
 </table>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

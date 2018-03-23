@@ -232,10 +232,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
 <span sdata="link">[SetList Element
 (View)](setlist-element-view.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

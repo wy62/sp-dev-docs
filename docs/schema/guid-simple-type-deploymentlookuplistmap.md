@@ -91,10 +91,10 @@ Schema](deploymentlookuplistmap-schema.htm)</span>
 <span sdata="link">[LookupItem Element
 (DeploymentLookupListMap)](lookupitem-element-deploymentlookuplistmap.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

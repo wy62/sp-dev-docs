@@ -291,10 +291,10 @@ field being rendered.
 <span sdata="link">[HTML-Rendering
 Elements](html-rendering-elements.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

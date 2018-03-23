@@ -553,10 +553,10 @@ Interface](http://msdn.microsoft.com/library/b2403912-161d-408f-90ae-6b95c014d05
 <span sdata="link">[Schema reference for SharePoint
 2013](schema-reference-for-sharepoint-2013.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

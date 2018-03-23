@@ -169,10 +169,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
        </Rows>
     </Data>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

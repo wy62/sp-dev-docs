@@ -174,10 +174,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
 [How to: Add a Content Type to a
 List](http://msdn.microsoft.com/library/5ae6e295-a406-4f90-920f-030c0dfcd666(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

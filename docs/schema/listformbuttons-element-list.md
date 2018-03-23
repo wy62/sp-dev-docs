@@ -161,10 +161,10 @@ New forms for a list.
 
 [ListFormOpening](http://msdn.microsoft.com/library/15f6cc48-7dd9-4d5d-baf5-e54e1fb7945bfb7945b(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

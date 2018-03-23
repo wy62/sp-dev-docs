@@ -145,10 +145,10 @@ Schema](deploymentrootobjectmap-schema.htm)</span>
 <span sdata="link">[RootObject Element
 (DeploymentRootObjectMap)](rootobject-element-deploymentrootobjectmap.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

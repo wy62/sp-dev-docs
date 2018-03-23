@@ -166,10 +166,10 @@ Renders the absolute URL of the list's home directory.
 <span sdata="link">[ListTemplate Element
 (Site)](listtemplate-element-site.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

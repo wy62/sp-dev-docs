@@ -120,10 +120,10 @@ SharePoint Online | SharePoint Server 2013*
 
 [XslLink](xsllink-element-list.htm)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

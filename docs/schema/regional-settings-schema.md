@@ -199,10 +199,10 @@ class="nolink">SPLanguageCollection</span></span>
 
           [DayOfWeek](dayofweek-element-regional-settings.htm)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

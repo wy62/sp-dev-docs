@@ -237,10 +237,10 @@ class="keyword">FieldRef</span> attribute instead of a <span
 class="keyword">List</span> attribute, see [List Joins and
 Projections](http://msdn.microsoft.com/library/f8e07793-3053-4930-97aa-556e38b9f21b(Office.15).aspx).
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

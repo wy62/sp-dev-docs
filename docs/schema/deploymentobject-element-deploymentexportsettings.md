@@ -197,10 +197,10 @@ class="nolink">SPExportObject</span></span>
 <span sdata="link">[DeploymentExportSettings
 Schema](deploymentexportsettings-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

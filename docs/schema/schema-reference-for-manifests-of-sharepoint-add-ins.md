@@ -95,10 +95,10 @@ Manifest)](types-sharepoint-add-in-manifest.htm)</span>
 [Explore the app manifest structure and the package of a SharePoint
 Add-in](http://msdn.microsoft.com/library/7cd5850f-cbf3-48d2-bcb7-59b8f4ed0e63(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

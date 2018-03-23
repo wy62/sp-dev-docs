@@ -189,10 +189,10 @@ nameDOCS-GREATERTHANDOCS-GREATERTHAN XML schema.
 -   [WebPartPersonalizationScope
     simpleType](webpartpersonalizationscope-simpletype-apphostwebfeatures.htm)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -94,10 +94,10 @@ Schema)](obpart-element-in-arrayofobpart-layoutdefinitions-schema.htm)</span>
 <span sdata="link">[TitleBar Element in OBPart (LayoutDefinitions
 Schema)](titlebar-element-in-obpart-layoutdefinitions-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

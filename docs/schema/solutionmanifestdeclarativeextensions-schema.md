@@ -139,10 +139,10 @@ Schema)](picture-element-in-declarativeformregion-solutionmanifestdeclarativeext
 (SolutionManifestDeclarativeExtensions
 Schema)](urlaction-element-in-actions-solutionmanifestdeclarativeextensions-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

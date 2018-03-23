@@ -158,10 +158,10 @@ values for 2006 and earlier will still be calculated correctly.
 The **History** element can apply to any time
 zone for any year indicated.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

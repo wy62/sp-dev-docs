@@ -167,10 +167,10 @@ SharePoint Server 2013*
 -   [WebTemplateIdDefinition
     simpleType](webtemplateiddefinition-simpletype-sharepoint-add-in-manifest.htm)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

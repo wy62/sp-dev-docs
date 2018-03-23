@@ -103,10 +103,10 @@ XML schema.
 
 -   [Source element](source-element-arrayofsource-complextypesps15xsdsearchset1.htm)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

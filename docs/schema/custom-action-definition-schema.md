@@ -183,10 +183,10 @@ Interface](http://msdn.microsoft.com/library/b2403912-161d-408f-90ae-6b95c014d05
 [Walkthrough: Replacing a Button on the Server
 Ribbon](http://msdn.microsoft.com/library/93841d22-954c-4352-b81a-0d7bbdafc247(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

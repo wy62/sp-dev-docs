@@ -90,10 +90,10 @@ schemas](sharepoint-search-settings-portability-schemas.htm)</span>
 <span sdata="link">[Other SharePoint
 schemas](other-sharepoint-schemas.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

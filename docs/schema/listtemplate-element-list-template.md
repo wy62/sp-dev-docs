@@ -390,10 +390,10 @@ lists on the <span class="ui">Create</span> page.
 For an example of how this element is used, see <span sdata="link">[List
 Template Files](list-template-files.htm)</span>.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

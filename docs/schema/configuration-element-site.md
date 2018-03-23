@@ -339,10 +339,10 @@ Templates](http://msdn.microsoft.com/library/de422674-5cc4-4880-b08e-b1e955419d3
 [Site Definitions and
 Configurations](http://msdn.microsoft.com/library/0d76bceb-7ffa-444a-98cf-0fa1d60a1aa3(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

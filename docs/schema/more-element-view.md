@@ -142,10 +142,10 @@ Allows additional properties to be set when a limit is applied to text.
 </tbody>
 </table>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

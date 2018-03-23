@@ -238,10 +238,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
 [Walkthrough: Adding a Group to the Server
 Ribbon](http://msdn.microsoft.com/library/0696705f-e805-49e7-90c5-0e9e5f894d6a(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

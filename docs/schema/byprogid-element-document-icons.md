@@ -188,10 +188,10 @@ Icons)](docicons-element-document-icons.htm)</span> for an extended
 example that shows how to use the **ByProgID**
 element.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

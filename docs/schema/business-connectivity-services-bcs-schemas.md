@@ -85,10 +85,10 @@ Schema](bdcmetadataresource-schema.htm)</span>
 [BDCSchemaAnnotations
 Schema](http://msdn.microsoft.com/library/e4d88dcb-07c2-dffb-a219-e0b224522e33.aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

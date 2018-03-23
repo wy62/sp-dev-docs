@@ -150,10 +150,10 @@ Types](http://msdn.microsoft.com/library/a345a6c5-7031-46ab-a2c2-37bedc3012f4(Of
 [Content Type Deployment Using
 Features](http://msdn.microsoft.com/library/f680072c-3759-4141-b027-165ac0795a72(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -166,10 +166,10 @@ class="keyword">NotAddingQuote</span> is set to <span
 class="keyword">TRUE</span>. Note that in the second case, the string is
 not surrounded by quotation marks.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

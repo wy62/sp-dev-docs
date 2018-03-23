@@ -151,10 +151,10 @@ Microsoft SharePoint Foundation activates features specified within the
 file in the order that they are listed. Consequently, you must specify
 Features that are depended upon before Features that depend upon them.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

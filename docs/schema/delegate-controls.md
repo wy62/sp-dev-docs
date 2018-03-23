@@ -109,10 +109,10 @@ Templatization)](http://msdn.microsoft.com/library/e979328d-4985-4ed6-9085-7ff32
 [How to: Customize a Delegate
 Control](http://msdn.microsoft.com/library/9db44a39-33df-43d9-b873-3b41310090af(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

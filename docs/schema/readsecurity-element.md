@@ -166,10 +166,10 @@ Element](schemasecurity-element.htm)</span>
 <span sdata="link">[WriteSecurity
 Element](writesecurity-element.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

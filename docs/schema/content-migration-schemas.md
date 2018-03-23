@@ -151,10 +151,10 @@ content migration, as described in the following table.
 [Content
 Migration](http://msdn.microsoft.com/library/626286f9-71b3-4b3c-9bac-a7bca059463f(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

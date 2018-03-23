@@ -164,10 +164,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
           vnd.ms-powerpoint" HandlerUrl="HtmlTranslate.aspx" />
     </HtmlTrInfo>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -74,10 +74,10 @@ A-H](general-schema-elements-a-h.htm)</span>
 <span sdata="link">[General Schema Elements
 I-Z](general-schema-elements-i-z.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

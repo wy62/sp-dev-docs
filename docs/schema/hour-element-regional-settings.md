@@ -167,10 +167,10 @@ Settings)](day-element-regional-settings.htm)</span>
 <span sdata="link">[Month Element (Regional
 Settings)](month-element-regional-settings.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

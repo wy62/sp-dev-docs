@@ -187,10 +187,10 @@ class="keyword">choice</span>, see the definition section.
 </tbody>
 </table>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

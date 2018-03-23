@@ -155,10 +155,10 @@ within a month.
 <span sdata="link">[Today Element
 (Query)](today-element-query.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

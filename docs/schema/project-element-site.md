@@ -224,10 +224,10 @@ onmouseout="ChangeCopyCodeIcon(this)" tabindex="0">![Copy
 code](../icons/copycode.gif "Copy code")Copy code</span>
     <Project Title="$Resources:onet_TeamWebSite;" Revision="2" ListDir="$Resources:core,lists_Folder;" xmlns:ows="Microsoft SharePoint">
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -198,10 +198,10 @@ class="code">http://Server\_Name/Subsite\_Name/Library\_Name/\_t/File\_Base\_Nam
 
 [UrlDirName](urldirname-element-view.htm)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

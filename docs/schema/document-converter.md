@@ -114,10 +114,10 @@ Converter)](elements-element-document-converter.htm)</span>
 <span sdata="link">[DocumentConverter Element (Document
 Converter)](documentconverter-element-document-converter.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

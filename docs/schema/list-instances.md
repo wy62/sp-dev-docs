@@ -136,10 +136,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
 [List
 Instance](http://msdn.microsoft.com/library/8fb93773-06d8-4d42-9095-4a6af5dc8ef1(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

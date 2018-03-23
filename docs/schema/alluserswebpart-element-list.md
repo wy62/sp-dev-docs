@@ -156,10 +156,10 @@ Contains a Web Part in a form definition for list.
 For an example of how to use this element, see
 [Form](form-element-list.htm).
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

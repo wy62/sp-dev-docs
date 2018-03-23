@@ -95,10 +95,10 @@ the configuration for an app part in SharePoint Add-ins.
 [Create add-in parts to install with your SharePoint
 Add-in](http://msdn.microsoft.com/library/a2664289-6c56-4cb1-987a-22367fad55eb(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

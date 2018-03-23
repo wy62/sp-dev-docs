@@ -321,10 +321,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
               Culture=neutral, PublicKeyToken=31bf3856ad364e35"
           SourceProperty="Value">
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

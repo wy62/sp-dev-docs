@@ -120,10 +120,10 @@ Element
 <span sdata="link">[Parameters Element in Method (BDCMetadataResource
 Schema)](parameters-element-in-method-bdcmetadataresource-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

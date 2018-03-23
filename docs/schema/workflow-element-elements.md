@@ -313,10 +313,10 @@ Services)](http://msdn.microsoft.com/library/fba5147d-70a7-4f83-8efc-2fe0a5d0b4a
 [Workflow Task Forms (Windows SharePoint
 Services)](http://msdn.microsoft.com/library/327137dd-9a2b-4df6-be48-582a4b41aaa9(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -153,10 +153,10 @@ list template.
 For an example of how to use this element, see [Creating Custom Form
 Templates](http://msdn.microsoft.com/library/b77ec86e-9568-4325-b949-13ee2fdcaabf(Office.15).aspx).
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

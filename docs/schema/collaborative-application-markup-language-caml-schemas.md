@@ -117,10 +117,10 @@ Schema](general-schema.htm)</span>
 [Other CAML
 Schemas](http://msdn.microsoft.com/library/cee9f788-89a3-4fe1-92d8-10517c8904cf(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

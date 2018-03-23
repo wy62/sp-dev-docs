@@ -158,10 +158,10 @@ class="code">App\_GlobalResources</span>.
 <span sdata="link">[App\_GlobalResourceFile Element
 (Solution)](app_globalresourcefile-element-solution.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

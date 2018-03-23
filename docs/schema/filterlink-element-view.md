@@ -232,10 +232,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
     <HTML>"Filter"</HTML>
     <HTML><![CDATA[ border=0 width=16 height=16></a></HTML>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

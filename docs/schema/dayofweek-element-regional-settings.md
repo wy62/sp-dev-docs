@@ -153,10 +153,10 @@ Settings)](standardtime-element-regional-settings.htm)</span> for an
 example that shows how to use the **DayOfWeek**
 element.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

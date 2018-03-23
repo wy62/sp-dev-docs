@@ -83,10 +83,10 @@ field values in elements of the DeploymentExportSettings Schema.
 <span sdata="link">[DeploymentExportSettings
 Schema](deploymentexportsettings-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

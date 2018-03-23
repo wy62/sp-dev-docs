@@ -210,10 +210,10 @@ Feature](http://msdn.microsoft.com/library/4f70b1ea-dafe-4068-a6b0-55402b7618dc(
 [Event
 Fundamentals](http://msdn.microsoft.com/library/4a20751f-877a-48ca-9d37-c3d4e6df9f30(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

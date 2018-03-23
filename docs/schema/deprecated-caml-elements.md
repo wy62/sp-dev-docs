@@ -123,10 +123,10 @@ depend on ASP.NET for execution. Web Parts replace CAML views in the
 display of list data on these pages. This behavior differs from the
 previous version of SharePoint Foundation.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

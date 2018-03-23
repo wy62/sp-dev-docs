@@ -149,10 +149,10 @@ section in the Base.xml file that defines the schema for database lists
 that are global to the entire Web application that is running SharePoint
 Foundation.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -152,10 +152,10 @@ Renders a form for the particular list that is specified by a previous
 <span sdata="link">[SetList Element
 (View)](setlist-element-view.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

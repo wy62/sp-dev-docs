@@ -134,10 +134,10 @@ Specifies a binary resource to deploy to an existing Feature folder.
 Use this element to deploy a binary resource to an existing Feature
 folder.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

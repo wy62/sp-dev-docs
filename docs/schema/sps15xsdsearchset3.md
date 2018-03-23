@@ -75,10 +75,10 @@ custom solutions to create or validate search configurations.
 -   <span sdata="link">[Types
     (SPS15XSDSearchSet3)](types-sps15xsdsearchset3.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

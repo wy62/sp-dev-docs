@@ -81,10 +81,10 @@ SharePoint Server 2013*
 
 -   [Id element](id-element-apppartconfigdefinition-complextypeapppartconfigdefinition.htm)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

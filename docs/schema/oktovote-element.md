@@ -162,10 +162,10 @@ This element can be combined with a **Switch**
 statement to take actions, depending on the user's status in relation to
 a particular survey.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

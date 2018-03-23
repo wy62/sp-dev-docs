@@ -199,10 +199,10 @@ nameDOCS-GREATERTHANDOCS-GREATERTHAN XML schema.
 
 -   [VersionRange element](versionrange-element-upgradeactionsdefinition-complextypeapphostwebfeatures.htm)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

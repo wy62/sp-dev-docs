@@ -74,10 +74,10 @@ or validate search configurations.
 -   <span sdata="link">[Types
     (SPS15XSDSearchSet1)](types-sps15xsdsearchset1.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

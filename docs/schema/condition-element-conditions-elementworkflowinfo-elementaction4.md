@@ -322,10 +322,10 @@ parameters that are required to make the function call. It also contains
 information about how the **Condition** statement should be displayed to
 the workflow editor.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

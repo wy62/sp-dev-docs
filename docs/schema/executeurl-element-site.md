@@ -153,10 +153,10 @@ instantiated.
 Use the **ExecuteUrl** element to open the site
 definition creation process to arbitrary post-processing capabilities.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

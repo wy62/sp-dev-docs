@@ -127,10 +127,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
 
 [UpdateHandlerAssembly](updatehandlerassembly-element-alerttemplates.htm)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

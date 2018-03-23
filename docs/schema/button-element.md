@@ -336,10 +336,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
 [Walkthrough: Adding a Button to the Server
 Ribbon](http://msdn.microsoft.com/library/82d7078a-696d-4c93-99bf-d40cfb4db305(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -144,10 +144,10 @@ files, it specifies a default set of data for a newly created list.
 </tbody>
 </table>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -116,10 +116,10 @@ actions schema:
 -   [Workflow development in SharePoint Designer and
     Visio](http://msdn.microsoft.com/library/496780d5-47d6-4a43-bf14-70aefb8d820c(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

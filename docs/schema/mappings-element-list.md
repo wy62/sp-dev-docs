@@ -179,10 +179,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
       <Default>$Resources:core,Tasks_NotStarted;</Default>
     </Field>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

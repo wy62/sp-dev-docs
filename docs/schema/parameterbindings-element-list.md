@@ -170,10 +170,10 @@ Views](http://msdn.microsoft.com/library/f8a01a0b-0538-4c4a-b2af-30c3f7f1ff4b(Of
 [List
 Views](http://msdn.microsoft.com/library/43e6ba7e-eddb-418a-a570-c0815016fc17(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

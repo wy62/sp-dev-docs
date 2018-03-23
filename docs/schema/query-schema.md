@@ -245,10 +245,10 @@ Schema](view-schema.htm)</span>
 <span sdata="link">[List
 Schema](list-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

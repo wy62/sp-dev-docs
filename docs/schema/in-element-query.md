@@ -156,10 +156,10 @@ negation operators such as
 [Neq](neq-element-query.htm) or
 [NotIncludes](notincludes-element-query.htm).
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

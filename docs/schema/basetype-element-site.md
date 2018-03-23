@@ -169,10 +169,10 @@ without breaking the list (for example, a document library will not
 function without the file name column), although fields may be added to
 the list.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

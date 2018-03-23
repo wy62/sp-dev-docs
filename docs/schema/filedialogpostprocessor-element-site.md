@@ -158,10 +158,10 @@ See <span sdata="link">[Components Element
 that uses the **FileDialogPostProcessor**
 element.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

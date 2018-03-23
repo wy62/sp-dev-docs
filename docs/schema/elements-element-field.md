@@ -147,10 +147,10 @@ Definitions](field-definitions.htm)</span>
 [Introduction to
 Columns](http://msdn.microsoft.com/library/2482a1a0-c75e-40a9-9cdb-bc1548dc10c0(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

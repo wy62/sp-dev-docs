@@ -231,10 +231,10 @@ See <span sdata="link">[Module Element
 (Site)](module-element-site.htm)</span> for an example
 that uses the **File** element.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

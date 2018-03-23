@@ -363,10 +363,10 @@ Contains elements that define the Server ribbon user interface.
 [Customizing the Server
 Ribbon](http://msdn.microsoft.com/library/dedfad80-0f32-44cd-9080-1507be3288e7(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -152,10 +152,10 @@ if the browser is displaying <span
 class="code">http://server/Lists/Announcements/DispForm.htm?ID=37,</span>
 then <span class="code">\<ows:ID\></span> renders 37.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

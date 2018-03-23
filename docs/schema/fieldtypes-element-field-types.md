@@ -222,10 +222,10 @@ Definition](http://msdn.microsoft.com/library/b3315997-671f-4c29-9518-48cc4592f2
 [Walkthrough: Creating a Custom Field
 Type](http://msdn.microsoft.com/library/089a1b8a-cafc-4050-b445-16650602fe4f(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

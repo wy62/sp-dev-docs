@@ -154,10 +154,10 @@ See <span sdata="link">[Format
 Element](format-element.htm)</span> for an example
 that uses the **Formats** element.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

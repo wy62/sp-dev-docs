@@ -147,10 +147,10 @@ Universal attributes include the following:
     class="keyword">URLEncode</span>, does not encode the forward slash
     ("/").
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

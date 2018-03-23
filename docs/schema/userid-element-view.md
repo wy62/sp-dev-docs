@@ -155,10 +155,10 @@ that asks for a password or else it must initiate Windows NT
 challenge/response (NTLM). If a user has accounts on multiple subsites
 or Web applications, the user ID may be different in each case.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -188,10 +188,10 @@ Element](htmlbase-element.htm)</span>
 <span sdata="link">[HttpVDir Element
 (View)](httpvdir-element-view.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

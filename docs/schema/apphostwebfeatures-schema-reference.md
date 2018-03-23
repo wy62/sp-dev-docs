@@ -92,10 +92,10 @@ features deployed to the host web in SharePoint Add-ins.
 [Host webs, add-in webs, and SharePoint components in SharePoint
 2013](http://msdn.microsoft.com/library/b791cdf5-8aa2-47fa-bc4c-aee437354759(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

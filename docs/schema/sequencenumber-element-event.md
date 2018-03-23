@@ -160,10 +160,10 @@ Handler](http://msdn.microsoft.com/library/c86de04e-6f5b-4082-9ed4-203b6303007b(
 [How to: Create an Event Handler
 Feature](http://msdn.microsoft.com/library/4f70b1ea-dafe-4068-a6b0-55402b7618dc(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

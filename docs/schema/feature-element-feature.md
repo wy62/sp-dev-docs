@@ -274,10 +274,10 @@ For an example of how this element is used, see <span
 sdata="link">[Feature.xml
 Files](feature-xml-files.htm)</span>.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

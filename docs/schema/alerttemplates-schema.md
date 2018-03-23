@@ -202,10 +202,10 @@ Schema](query-schema.htm)</span>
 [Alerts in Windows SharePoint
 Services](http://msdn.microsoft.com/library/cb9586d9-84e1-43c9-93c9-8a7496f2f41d(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -88,10 +88,10 @@ SharePoint Online | SharePoint Server 2013*
 -   <span sdata="link">[dsQueryResponse
     schema](dsqueryresponse-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

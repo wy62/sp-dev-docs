@@ -301,10 +301,10 @@ Site](http://msdn.microsoft.com/library/8c448bfb-4036-451c-ac7d-2eccf13ccd5e(Off
 [How to: Add a Content Type to a
 List](http://msdn.microsoft.com/library/5ae6e295-a406-4f90-920f-030c0dfcd666(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

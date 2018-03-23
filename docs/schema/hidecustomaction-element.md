@@ -179,10 +179,10 @@ upon which CustomAction you are trying to hide.
 <span sdata="link">[Default Custom Action Locations and
 IDs](default-custom-action-locations-and-ids.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

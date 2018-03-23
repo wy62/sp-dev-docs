@@ -164,10 +164,10 @@ The **Language** element contains no
 within the [Languages](languages-element-regional-settings.htm)
 collection of the RGNLSTNG.XML file.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

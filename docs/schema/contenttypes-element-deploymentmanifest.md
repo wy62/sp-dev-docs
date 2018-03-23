@@ -170,10 +170,10 @@ Schema](deploymentmanifest-schema.htm)</span>
 <span sdata="link">[ContentType Element
 (DeploymentManifest)](contenttype-element-deploymentmanifest.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

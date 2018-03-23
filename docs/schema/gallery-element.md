@@ -202,10 +202,10 @@ items in a gallery are usually mutually exclusive choices, and the
 result of a choice is visually previewed either by an image or by a
 rendered HTML fragment.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

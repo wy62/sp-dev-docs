@@ -135,10 +135,10 @@ Schema](deploymentexportsettings-schema.htm)</span>
 <span sdata="link">[ExportSettings Element
 (DeploymentExportSettings)](exportsettings-element-deploymentexportsettings.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

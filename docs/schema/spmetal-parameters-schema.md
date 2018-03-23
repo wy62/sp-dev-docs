@@ -122,10 +122,10 @@ Rules](http://msdn.microsoft.com/library/873ac65e-425e-40f3-9ef6-753d3cda1436(Of
 
 [SPMetal](http://msdn.microsoft.com/library/bbb79c7c-a994-4ef9-9d43-8fc046dc508b(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

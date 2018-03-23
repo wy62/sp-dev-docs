@@ -119,10 +119,10 @@ describes the file formats used for the following Feature types:
 -   <span sdata="link">[Workflow
     Definitions](workflow-definitions.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

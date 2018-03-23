@@ -160,10 +160,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
           <Property Name="SpecificFinder" Value="Name of method that reads a single item; for example ReadItem" />
         </DataSource>    
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

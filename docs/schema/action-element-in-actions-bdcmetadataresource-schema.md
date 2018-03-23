@@ -134,10 +134,10 @@ Description
 <span sdata="link">[Actions Element in Entity (BDCMetadataResource
 Schema)](actions-element-in-entity-bdcmetadataresource-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

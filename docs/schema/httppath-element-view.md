@@ -188,10 +188,10 @@ class="code">/\_vti\_bin/owssvr.dll</span>.
 <span sdata="link">[HTMLBase
 Element](htmlbase-element.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

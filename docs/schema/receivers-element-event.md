@@ -178,10 +178,10 @@ registered at the same scope as the Feature. For example, a Feature that
 is scoped to the Web results in an event receiver being added to an
 event receiver collection that is scoped to the Web.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

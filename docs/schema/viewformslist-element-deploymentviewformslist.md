@@ -157,10 +157,10 @@ parent element.
 <span sdata="link">[DeploymentViewFormsList
 Schema](deploymentviewformslist-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

@@ -95,10 +95,10 @@ Definition](http://msdn.microsoft.com/library/09503b28-df8c-4e22-b4f8-7272fd1dac
 
 [DocIcon.xml](http://msdn.microsoft.com/library/ef6acad0-0a1a-457c-bc9b-ff1e368e59fb(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

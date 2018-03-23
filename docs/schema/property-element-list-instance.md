@@ -147,10 +147,10 @@ Element (List
 Instance)](datasource-element-list-instance.htm)</span> for
 information about the use of this element.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

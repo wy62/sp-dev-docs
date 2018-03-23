@@ -224,10 +224,10 @@ File](http://msdn.microsoft.com/library/209359b2-bd46-47b6-837d-3c0c2005cb19(Off
 [Type Mapping: From LINQ to SharePoint Provider to
 .NET](http://msdn.microsoft.com/library/6a1dff92-d3cf-46ec-9e51-372e5b9ff7c4(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

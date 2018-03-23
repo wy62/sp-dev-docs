@@ -321,10 +321,10 @@ Definition](http://msdn.microsoft.com/library/b3315997-671f-4c29-9518-48cc4592f2
 [Custom Multicolumn Field
 Classes](http://msdn.microsoft.com/library/62818d63-6473-42d0-b12f-251865887b33(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

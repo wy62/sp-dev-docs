@@ -161,10 +161,10 @@ Features](http://msdn.microsoft.com/library/ad294f09-483d-4e87-bd19-fa37795ed558
 [Workflow Association and Initiation Forms (Windows SharePoint
 Services)](http://msdn.microsoft.com/library/ffdfe5a7-f860-47b0-80e0-2dc2bd36ed38(Office.15).aspx)
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

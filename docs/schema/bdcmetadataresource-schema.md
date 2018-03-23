@@ -189,10 +189,10 @@ Schema)](typedescriptor-element-in-typedescriptors-bdcmetadataresource-schema.ht
 (BDCMetadataResource
 Schema)](typedescriptors-element-in-typedescriptor-bdcmetadataresource-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

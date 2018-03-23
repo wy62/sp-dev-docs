@@ -227,10 +227,10 @@ Schema](http://msdn.microsoft.com/library/1845d203-4699-4b0e-a182-2d9998439922(O
 <span sdata="link">[ViewFooter Element
 (List)](viewfooter-element-list.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

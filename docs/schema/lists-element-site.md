@@ -177,10 +177,10 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
       <List FeatureId="00BFEA71-A83E-497E-9BA0-7A5C597D0107" Type="107" Title="$Resources:core,taskList;" Url="$Resources:core,lists_Folder;/$Resources:core,tasks_Folder;" /> 
     </Lists>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

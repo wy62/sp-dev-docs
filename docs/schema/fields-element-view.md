@@ -151,10 +151,10 @@ fields in the list.
 Use of the <span class="code">\<Fields\></span> tag is synonymous with
 specifying <span class="code">\<ForEach Select="Fields/Field"\></span>.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

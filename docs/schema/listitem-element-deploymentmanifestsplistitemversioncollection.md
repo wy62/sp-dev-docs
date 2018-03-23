@@ -323,10 +323,10 @@ class="nolink">SPListItem</span></span>
 <span sdata="link">[DeploymentManifest
 Schema](deploymentmanifest-schema.htm)</span>
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 

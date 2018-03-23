@@ -373,10 +373,10 @@ section, but it can contain a
 [Data](data-element-site.htm) section through which
 to specify default column values for the given list type.
 
-![Footer](../icons/footer.gif "Footer")
 
-[© 2013 Microsoft Corporation. All rights
-reserved.](office-2013-documentation-copyright-notice.htm)
+
+
+
 
 
 
