@@ -1,6 +1,6 @@
 ---
-ms.author: rickki
-author: rickki
+
+
 manager: soliver
 ms.date: 1/25/2016
 ms.audience: Developer

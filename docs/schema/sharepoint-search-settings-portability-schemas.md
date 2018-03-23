@@ -1,6 +1,6 @@
 ---
-ms.author: kpalaraj
-author: kpalaraj
+
+
 manager: soliver
 ms.date: 9/18/2015
 ms.audience: Developer

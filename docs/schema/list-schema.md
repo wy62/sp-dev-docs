@@ -1,6 +1,5 @@
 ---
-ms.author: soliver
-author: soliver
+
 manager: soliver
 ms.date: 12/7/2015
 ms.audience: Developer

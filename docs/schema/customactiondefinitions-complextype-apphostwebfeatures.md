@@ -1,6 +1,6 @@
 ---
-ms.author: NormSohl
-author: NormSohl
+
+
 manager: soliver
 ms.date: 9/16/2015
 ms.audience: Developer

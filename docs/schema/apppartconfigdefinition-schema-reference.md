@@ -1,6 +1,6 @@
 ---
-ms.author: ricardol
-author: ricardol
+
+
 manager: soliver
 ms.date: 9/16/2015
 ms.audience: Developer

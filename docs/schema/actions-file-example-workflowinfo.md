@@ -1,6 +1,6 @@
 ---
-ms.author: kenwith
-author: kenwith
+
+
 manager: laurawi
 ms.date: 11/16/2014
 ms.audience: Developer

@@ -1,6 +1,5 @@
 ---
-ms.author: davesw
-author: daswifty
+
 manager: soliver
 ms.date: 9/17/2015
 ms.audience: Developer

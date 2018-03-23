@@ -1,6 +1,6 @@
 ---
-ms.author: nicg
-author: nicg
+
+
 manager: soliver
 ms.date: 9/18/2015
 ms.audience: Developer
