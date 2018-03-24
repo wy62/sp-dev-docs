@@ -8,7 +8,11 @@ localization_priority: Normal
 ms.assetid: ccc8e186-f1e8-c8d2-f2c4-c78d671080a8
 ---
 
-# _AuthSchemeName element (FormsAuthCredentials complexType) (SPS15XSDSearchSet2)
+# _AuthSchemeName element 
+
+(FormsAuthCredentials complexType) (SPS15XSDSearchSet2)
+
+<br/>
 
 <table>
 <colgroup>
@@ -31,10 +35,13 @@ ms.assetid: ccc8e186-f1e8-c8d2-f2c4-c78d671080a8
 </tbody>
 </table>
 
+<br/>
 
 ```XML 
 <xs:element name="_AuthSchemeName" type="xs:string" minOccurs="0"></xs:element>
 ```
+
+<br/>
 
 If the schema defines specific requirements, such as **sequence**, **minOccurs**, **maxOccurs**, and **choice**, see the definition section.
 

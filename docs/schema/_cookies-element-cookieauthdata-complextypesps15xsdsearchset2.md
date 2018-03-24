@@ -8,7 +8,11 @@ localization_priority: Normal
 ms.assetid: 6f2336fc-0cdd-6596-fdb7-45607006b2c8
 ---
 
-# _Cookies element (CookieAuthData complexType) (SPS15XSDSearchSet2)
+# _Cookies element 
+
+(CookieAuthData complexType) (SPS15XSDSearchSet2)
+
+<br/>
 
 <table>
 <colgroup>
@@ -31,11 +35,13 @@ ms.assetid: 6f2336fc-0cdd-6596-fdb7-45607006b2c8
 </tbody>
 </table>
 
+<br/>
 
 ```XML 
     <xs:element name="_Cookies" type="q6:CookieCollection" minOccurs="0"></xs:element>
 ```
 
+<br/>
 
 If the schema defines specific requirements, such as **sequence**, **minOccurs**, **maxOccurs**, and **choice**, see the definition section.
 

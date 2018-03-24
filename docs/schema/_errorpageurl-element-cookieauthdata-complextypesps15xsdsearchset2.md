@@ -8,7 +8,11 @@ localization_priority: Normal
 ms.assetid: 777c3c72-e0ec-13e9-04dd-4b54adeaa6dd
 ---
 
-# _ErrorPageUrl element (CookieAuthData complexType) (SPS15XSDSearchSet2)
+# _ErrorPageUrl element 
+
+(CookieAuthData complexType) (SPS15XSDSearchSet2)
+
+<br/>
 
 <table>
 <colgroup>
@@ -31,10 +35,13 @@ ms.assetid: 777c3c72-e0ec-13e9-04dd-4b54adeaa6dd
 </tbody>
 </table>
 
+<br/>
 
 ```XML 
     <xs:element name="_ErrorPageUrl" type="xs:string" minOccurs="0"></xs:element>
 ```
+
+<br/>
 
 If the schema defines specific requirements, such as **sequence**, **minOccurs**, **maxOccurs**, and **choice**, see the definition section.
 

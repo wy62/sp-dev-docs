@@ -8,7 +8,11 @@ localization_priority: Normal
 ms.assetid: 8dd91808-4eaf-e13a-70d4-8ff2638afcb0
 ---
 
-# _AuthSubmissionMethod element (FormsAuthCredentials complexType) (SPS15XSDSearchSet2)
+# _AuthSubmissionMethod element 
+
+(FormsAuthCredentials complexType) (SPS15XSDSearchSet2)
+
+<br/>
 
 <table>
 <colgroup>
@@ -31,12 +35,13 @@ ms.assetid: 8dd91808-4eaf-e13a-70d4-8ff2638afcb0
 </tbody>
 </table>
 
-
+<br/>
 
 ```XML 
     <xs:element name="_AuthSubmissionMethod" type="xs:string" minOccurs="0"></xs:element>
 ```
 
+<br/>
 
 If the schema defines specific requirements, such as **sequence**, **minOccurs**, **maxOccurs**, and **choice**, see the definition section.
 
