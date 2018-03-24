@@ -98,7 +98,7 @@ code](../icons/copycode.gif "Copy code")Copy code</span>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If the schema defines specific requirements, such as <span
+If the schema defines specific requirements, such as **sequence**, **minOccurs**, **maxOccurs**, and **choice**, see the definition section.
 class="keyword">sequence</span>, **minOccurs**,
 **maxOccurs**, and <span
 class="keyword">choice</span>, see the definition section.

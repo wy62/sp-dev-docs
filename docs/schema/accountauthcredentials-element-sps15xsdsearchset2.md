@@ -91,13 +91,7 @@ onmouseout="ChangeCopyCodeIcon(this)" tabindex="0">![Copy
 code](../icons/copycode.gif "Copy code")Copy code</span>
     <xs:element name="AccountAuthCredentials" type="tns:AccountAuthCredentials"></xs:element>
 
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-If the schema defines specific requirements, such as <span
-class="keyword">sequence</span>, **minOccurs**,
-**maxOccurs**, and <span
-class="keyword">choice</span>, see the definition section.
+If the schema defines specific requirements, such as **sequence**, **minOccurs**, **maxOccurs**, and **choice**, see the definition section.
 
 ### Parent elements
 
