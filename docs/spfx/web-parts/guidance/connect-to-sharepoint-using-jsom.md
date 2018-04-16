@@ -124,7 +124,7 @@ The next step is to install and configure TypeScript typings for SharePoint JSOM
 1. From the console, execute the following command within your project directory:
 
   ```sh
-  npm install @types/microsoft-ajax @types/sharepoint --save-dev
+  npm install @types/microsoft-ajax @types/sharepoint@2013.1.7 --save-dev
   ```
 
   SharePoint JSOM is not distributed as a module, so you cannot import it directly in your code. Instead, you need to register its TypeScript typings globally. 
